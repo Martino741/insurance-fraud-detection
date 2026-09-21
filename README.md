@@ -6,10 +6,7 @@ The system is designed to support human investigators by prioritizing suspicious
 
 ## Demo
 
-![Streamlit application demo](images/app-demo.png)
-
-## Project Objective
-
+![Streamlit application demo]:
 Insurance fraud can generate substantial financial losses. The objective of this project is to classify automobile insurance claims into two categories:
 
 - `0` — low fraud risk
@@ -91,3 +88,5 @@ Limitations
 
 Author
 Martino VIGNIGBE
+
+[def]: https://github.com/Martino741/insurance-fraud-detection/blob/5bcc51e4e97364f9c5f598eda61581b243f4fa3f/images/Image.png1.jpeg
